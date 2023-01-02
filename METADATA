@@ -1,20 +1,3 @@
-name: "apache-commons-matjh"
-description: "The Apache Commons Math project is a library of lightweight, self-contained mathematics and statistics components addressing the most common practical problems not immediately available in the Java programming language or commons-lang."
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://github.com/apache/commons-math"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://github.com/apache/commons-math/archive/MATH_2_2.zip"
-  }
-  version: "MATH_2_2"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2011
-    month: 3
-    day: 20
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0654305bd4cc4f078740db478d7e1afa809258f18d78d2981c7c8bda8845f7
+size 594
